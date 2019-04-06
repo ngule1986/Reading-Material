@@ -1,2 +1,3 @@
 # Reading-Material
-Important concepts
+This repository contains reading dicuments on following topics:
+1) 
